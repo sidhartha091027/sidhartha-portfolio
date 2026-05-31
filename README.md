@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌐 Live Website
-**URL:** [https://Sidhartha.aediax.com](https://Sidhartha.aediax.com)
+**URL:** [https://Sidhartha.aediax.com](https://sid-professional-portfolio.web.app/)
 
 ## 📱 Website Pages
 - **Home:** `/` - Landing page with introduction
