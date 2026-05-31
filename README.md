@@ -112,7 +112,7 @@ npm install
 Create `.env` file:
 ```env
 REACT_APP_SITE_URL=https://Sidhartha.aediax.com
-REACT_APP_GA_MEASUREMENT_ID=G-XXXXXXXXXX
+
 ```
 
 ### 4. Run Development Server
@@ -147,9 +147,9 @@ npm run deploy
 
 ### Meta Tags in `index.html`
 ```html
-<title>Sidhartha | Tech Entrepreneur | Founder & CEO of AediaX</title>
-<meta name="description" content="Sidhartha is a Tech Entrepreneur, Software Engineer, and Founder & CEO of AediaX Tech Private Limited." />
-<meta property="og:title" content="Sidhartha | Founder & CEO of AediaX" />
+<title>Sidhartha | AI/ML Engineer | Software Engineer.</title>
+<meta name="description" content="Sidhartha is a Summer Intern at AediaX Tech Private Limited." />
+<meta property="og:title" content="Sidhartha | AI/ML Engineer." />
 <meta property="og:url" content="https://Sidhartha.aediax.com" />
 <meta property="og:image" content="https://Sidhartha.aediax.com/og-image.png" />
 ```
@@ -243,14 +243,14 @@ For any queries or collaborations:
 
 ```yaml
 Name: Sidhartha
-Role: Founder & CEO, AediaX Tech Private Limited
+Role: Summer Intern 
 Email: SidharthaSahooone@gmail.com
 Official: SidharthaSahoo@aediax.com
-Phone: +91 78549 98757 (WhatsApp)
+Phone: +91 6371541129 (WhatsApp)
 Website: https://Sidhartha.aediax.com
 ```
 
 ---
 
-*Last Updated: January 2024*  
+*Last Updated: May 31st 2026*  
 *Built with ❤️ using React & Firebase*
